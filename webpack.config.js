@@ -6,7 +6,7 @@ module.exports = {
       path: path.resolve(__dirname, './dist'), 
       filename:'main.js'
     },
-    watch: true,
+    watch: false,
     devServer: {
         port: 9000,
         compress: true,

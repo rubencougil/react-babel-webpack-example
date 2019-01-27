@@ -5,6 +5,6 @@ import 'bootstrap'
 import './scss/app.scss';
 
 ReactDOM.render(
-    <Saludo nombre="SuperMeat" like> Boy (Videogame) </Saludo>,
+    <Saludo nombre="SuperMeat" like> Boy (Best Videogame) </Saludo>,
     document.getElementById('mensaje')
 );
